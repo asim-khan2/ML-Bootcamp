@@ -25,6 +25,13 @@ Machine Learning Algorithms
 - Support Vector Machine (SVM)
 - Naive Bayes
 
+### 2. Unsupervised Machine Learning Algorithms
+- K-Means Clustering
+- Hierarchical Clustering
+- DBSCAN
+- Principal Component Analysis (PCA)
+- Anomaly / Outlier Detection
+
 ### 4. Model Evaluation & Validation
 - Train-Test Split
 - Cross Validation
